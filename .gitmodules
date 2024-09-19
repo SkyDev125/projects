@@ -1,0 +1,6 @@
+[submodule "university/2nd_year/1st_sem/po"]
+	path = university/2nd_year/1st_sem/po
+	url = https://github.com/SkyDev125/po.git
+[submodule "other/petition_app"]
+	path = other/petition_app
+	url = https://github.com/SkyDev125/petition_app
