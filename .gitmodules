@@ -4,3 +4,6 @@
 [submodule "other/petition_app"]
 	path = other/petition_app
 	url = https://github.com/SkyDev125/petition_app
+[submodule "university/Other/NDA-Suspension"]
+	path = university/Other/NDA-Suspension
+	url = https://github.com/SkyDev125/NDA-Suspension
